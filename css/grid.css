@@ -1,5 +1,3 @@
-
-
 .grid-col-3of10 {
   width: 100%;
 }
@@ -25,7 +23,8 @@
 .grid-col-3of10 {
     width: 30%;
 }
-}
+
+
 
 
 /*@media (min-width: 800px) {
