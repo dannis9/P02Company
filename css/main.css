@@ -127,39 +127,6 @@ li {
     padding: 0;
 }
 
-.grid-col-3of10 {
-  width: 100%;
-}
-.grid-rightmenubar-2of10{
-  width:auto;
-
-  }
-
-  *, *:after, *:before {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-.grid:after {
-    content: "";
-    display: block;
-    clear: both;
-}
-
-
-@media (min-width: 800px) {
-.grid-col-3of10 {
-    width: 30%;
-}
-}
-
-
-/*@media (min-width: 800px) {
-.grid-col-7of10 {
-    width: 70%;
-}
-}*/
 
 
 
